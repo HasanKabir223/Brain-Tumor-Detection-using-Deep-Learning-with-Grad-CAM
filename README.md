@@ -84,13 +84,9 @@ Output:
 ## Project Structure
 
 ```
-├── data/
-│   ├── train/
-│   └── test/
-├── models/
+├── result
 ├── notebooks/
 ├── gradcam/
-├── utils/
 └── README.md
 ```
 ---
@@ -109,11 +105,9 @@ Output:
 **Hasan Kabir**
 AI Engineer
 
-* GitHub: <your-github-link>
-* LinkedIn: <your-linkedin-link>
-
 ---
 
 ## Final Note
 
 This project reflects a **first-principles approach** to AI — focusing on *why models work*, not just *making them work*.
+
